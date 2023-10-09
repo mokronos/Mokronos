@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sebastian Hirt
-### Masters in Information Technology
+### Master of Science in Information Technology
 
 - I'm currently building: [Website with Flask and HTMX](https://github.com/mokronos/logic)
 - I'm currently learning: Flask, HTMX and database handling
