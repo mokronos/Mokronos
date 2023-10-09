@@ -2,7 +2,7 @@
 ***
 ## Masters in Information Technology
 
-- I'm currently building: ![Website with Flask and HTMX](https://github.com/mokronos/logic)
+- I'm currently building: [Website with Flask and HTMX](https://github.com/mokronos/logic)
 - I'm currently learning: Flask, HTMX and database handling
 - I want to learn next: A lower level language like Rust or Zig, maybe in connection with WASM
 
