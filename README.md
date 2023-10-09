@@ -1,9 +1,11 @@
-# Hi there 👋
+# Hi there 👋, I'm Sebastian Hirt
+***
+## Masters in Information Technology
 
-I do random projects for my studies in information technology and some other private projects on various topics.
+- I'm currently building: ![Website with Flask and HTMX](https://github.com/mokronos/logic)
+- I'm currently learning: Flask, HTMX and database handling
+- I want to learn next: A lower level language like Rust or Zig, maybe in connection with WASM
 
-
-[![Mokronos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokronos)](https://github.com/mokronos/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokronos)](https://github.com/mokronos/github-readme-stats)
-
+## Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokronos&layout=compact&theme=dark)
+<!-- [![Mokronos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokronos)](https://github.com/mokronos/github-readme-stats)-->
